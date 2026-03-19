@@ -57,29 +57,17 @@ We address three core questions:
 
 ## Methodology
 
-**Phase 1: Data Prep & Cleaning**  
-Exploratory Data Analysis + hybrid keyword filtering → `clean_news_data.parquet`
-
-**Phase 2: Topic Detection**  
-BERTopic modeling to group articles into 100+ coherent topics
-
-**Phase 3: Entity Extraction & Sentiment Analysis**  
-- spaCy Transformer NER for companies, products, and locations  
-- Fine-tuned DistilBERT sentiment model (Positive / Negative / Neutral)  
-- N-gram analysis and multi-level impact scoring
-
-**Phase 4: Strategic Synthesis**  
-Temporal trend analysis, LLM-assisted topic labeling, and insight generation → Executive Dashboard
+<img width="1119" height="579" alt="Image" src="https://github.com/user-attachments/assets/5e345619-63c4-4d43-891f-9cd70085e676" />
 
 **Core Technologies**: PySpark, BERTopic, spaCy, DistilBERT (Hugging Face), LLM APIs, Pandas, Tableau/PowerPoint
 
 ---
 
-## Full Executive Presentation
+## Full Presentation
 
 Please find the **complete insight dashboard** with all visualizations, temporal trends, topic deep-dives, and strategic recommendations here:
 
-**[📊 Download Full PPT: Industry Impact of AI Executive Dashboard](insights/Industry_Impact_of_AI_Executive_Dashboard.pptx)**
+**[Full PPT: Industry Impact of AI Executive Dashboard](nlp final project)**
 
 ---
 
