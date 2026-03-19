@@ -67,10 +67,4 @@ We address three core questions:
 
 Please find the **complete insight dashboard** with all visualizations, temporal trends, topic deep-dives, and strategic recommendations here:
 
-**[Full PPT: Industry Impact of AI Executive Dashboard](nlp final project)**
-
----
-
-**Open to feedback and collaboration** on large-scale NLP projects, AI impact analysis, or topic modeling at scale.
-
-Feel free to ⭐ the repository if you find this work useful!
+**[Full Executive Dashboard: Industry Impact of AI](https://github.com/lin-jhe-yu/Industry-Impact-of-AI-Insights-from-Large-Scale-News-Analysis/blob/main/NLP%20Final%20Project.pdf)**
