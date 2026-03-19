@@ -1,3 +1,5 @@
+<img width="1000" height="450" alt="Image" src="https://github.com/user-attachments/assets/e02e094c-0198-45a2-942e-c5f1a95944a4" />
+
 # Industry Impact of AI: Insights from Large-Scale News Analysis
 ## Executive Summary
 
